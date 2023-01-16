@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "63c58f0be74c2a3c9719bed4"
+  },
+  "title": "Cocina",
+  "price": "2596",
+  "thumbnail": "www.foto.com/foto",
+  "id": 3,
+  "stock": 100,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c58f0be74c2a3c9719bed2"
+  },
+  "title": "Heladera",
+  "price": "4567",
+  "thumbnail": "www.foto.com/foto",
+  "id": 1,
+  "stock": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c58f0be74c2a3c9719bed6"
+  },
+  "title": "Termo Electrico",
+  "price": "2222",
+  "thumbnail": "https://www.iconfinder.com/",
+  "id": 7,
+  "stock": 100,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c58f0be74c2a3c9719bed7"
+  },
+  "title": "Termo Electrico",
+  "price": "1658",
+  "thumbnail": "https://www.iconfinder.com/",
+  "id": 8,
+  "stock": 100,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c58f0be74c2a3c9719bed8"
+  },
+  "title": "Termo Electrico",
+  "price": "2659",
+  "thumbnail": "https://www.iconfinder.com/",
+  "id": 9,
+  "stock": 100,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c58f0be74c2a3c9719bed9"
+  },
+  "title": "Termo Electrico",
+  "price": "3333",
+  "thumbnail": "https://www.iconfinder.com/",
+  "id": 10,
+  "stock": 100,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c58f0be74c2a3c9719beda"
+  },
+  "title": "Cargador Apple",
+  "price": "1234",
+  "thumbnail": "www.foto.com/foto",
+  "id": 11,
+  "stock": 100,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c58f0be74c2a3c9719bed3"
+  },
+  "title": "Lavarropas",
+  "price": "3215",
+  "thumbnail": "www.foto.com/foto",
+  "id": 2,
+  "stock": 100,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63c58f0be74c2a3c9719bed5"
+  },
+  "title": "Pelota",
+  "price": "4999",
+  "thumbnail": "www.google.com/asd",
+  "id": 6,
+  "stock": 0,
+  "__v": 0
+}]
